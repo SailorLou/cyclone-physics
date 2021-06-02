@@ -3,7 +3,12 @@
 src/*.o
 lib/linux/*
 bin/linux/*
-
+*.user
+*.exe
+*.ilk
+*.lib
+tmp/
+.vs/
 
 # Prebuilt OSX Executables
 lib/osx64/*
